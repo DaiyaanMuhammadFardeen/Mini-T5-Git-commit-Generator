@@ -8,8 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-.parquet
-.csv
+*.parquet
+*.csv
 build/
 develop-eggs/
 dist/
@@ -20,6 +20,7 @@ lib/
 lib64/
 t5*/
 parts/
+tokenizer*/
 sdist/
 var/
 wheels/
